@@ -13,7 +13,7 @@ Scmap is a method developed for projecting cells from an scRNA-seq data set onto
 
 Source code_Final Project_QB.R can be utilized to recluster Satija et al.'s CITEseq dbone marrow mononuclear cell data using Seurat and scMapCluster
 
-# Visualization
+#Visualization
 
 Sankey_ARI_Generator.R allows for the generation of river plots that can compare the inclusion or exclusion of cells in different clustering methods
 
